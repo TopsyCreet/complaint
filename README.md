@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Naija Complaints
 
 A public complaint board where Nigerians can post their grievances and read others'. Built with React, Express, and SQLite.
