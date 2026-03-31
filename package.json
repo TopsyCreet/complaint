@@ -1,0 +1,22 @@
+{
+  "name": "naija-complaints",
+  "version": "1.0.0",
+  "description": "A public complaint board for Nigerians",
+  "main": "server.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "node server.js",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "start": "npm run build && node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "concurrently": "^8.2.0"
+  },
+  "devDependencies": {},
+  "keywords": ["complaints", "nigeria", "fullstack"],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 6,
+    "name": "Rasheed",
+    "category": "Roads",
+    "complaint": "road don spoil",
+    "vex_count": 1,
+    "cry_count": 1,
+    "laugh_count": 0,
+    "created_at": "2026-03-31T12:32:55.821Z"
+  },
+  {
+    "id": 1,
+    "name": "Chike",
+    "category": "NEPA/Power",
+    "complaint": "NEPA don turn light off for 3 days straight! Wetin dey happen na? My generator don tire o!",
+    "vex_count": 0,
+    "cry_count": 0,
+    "laugh_count": 0,
+    "created_at": "2026-03-31T12:32:29.846Z"
+  },
+  {
+    "id": 2,
+    "name": "Ada",
+    "category": "Banks",
+    "complaint": "Bank queue too long! I stand for 2 hours just to withdraw my own money. Naija banks no get sense!",
+    "vex_count": 0,
+    "cry_count": 0,
+    "laugh_count": 0,
+    "created_at": "2026-03-31T12:32:29.846Z"
+  },
+  {
+    "id": 3,
+    "name": "Anonymous",
+    "category": "Roads",
+    "complaint": "Roads for Lagos bad pass bad! Potholes everywhere, my car tire don burst twice this week.",
+    "vex_count": 0,
+    "cry_count": 0,
+    "laugh_count": 0,
+    "created_at": "2026-03-31T12:32:29.846Z"
+  },
+  {
+    "id": 4,
+    "name": "Emeka",
+    "category": "Telecoms",
+    "complaint": "MTN network slow like tortoise! I no fit even load WhatsApp. Change network or wetin?",
+    "vex_count": 0,
+    "cry_count": 0,
+    "laugh_count": 0,
+    "created_at": "2026-03-31T12:32:29.846Z"
+  },
+  {
+    "id": 5,
+    "name": "Ngozi",
+    "category": "Police",
+    "complaint": "Police stop and search me for no reason. Dem say na checkpoint, but na extortion center!",
+    "vex_count": 0,
+    "cry_count": 0,
+    "laugh_count": 0,
+    "created_at": "2026-03-31T12:32:29.846Z"
+  }
+]
